@@ -48,6 +48,9 @@
     <Compile Include="FuelEngine.cs" />
     <Compile Include="FuelMotorcycle.cs" />
     <Compile Include="Garage.cs" />
+    <Compile Include="IPaymentGateway.cs" />
+    <Compile Include="MockMastercardGateway.cs" />
+    <Compile Include="MockVisaGateway.cs" />
     <Compile Include="Motorcycle.cs" />
     <Compile Include="Truck.cs" />
     <Compile Include="ValueOutOfRangeException.cs" />
