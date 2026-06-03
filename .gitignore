@@ -49,3 +49,6 @@ ipch/
 *.cachefile
 *.VC.db
 *.VC.VC.opendb
+# .NET build output directories
+bin/
+obj/
